@@ -1,9 +1,5 @@
 # Hawkular Datasource for Grafana
 
-ifdef::env-github[]
-image:https://travis-ci.org/hawkular/hawkular-grafana-datasource.svg?branch=master["Build Status", link="https://travis-ci.org/hawkular/hawkular-grafana-datasource"]
-endif::[]
-
 This project is the Hawkular Datasource plugin for Grafana 3. It works with:
 
 * Metrics standalone servers as well
